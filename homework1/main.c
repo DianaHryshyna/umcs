@@ -6,7 +6,7 @@ int main()
     float a;
     float b;
     float c;
-    scanf("%f", &a);
+    scanf("%f", &a);//in
     scanf("%f", &b);
     scanf("%f", &c);
     float V;
