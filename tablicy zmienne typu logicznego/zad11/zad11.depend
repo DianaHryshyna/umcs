@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510944274 source:c:\users\user\desktop\lessons\umcs\tablicy zmienne typu logicznego\zad11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511038901 source:c:\users\user\desktop\lessons\umcs\napisy\zadspace\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
