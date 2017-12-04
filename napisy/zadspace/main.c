@@ -7,7 +7,7 @@ int CountWords(char napis[], int rozmiar);
 int main()
 {
     int i;
-    char napis[200] = "   Diana  loves Timur so much that he can't imagine  ";
+    char napis[200] = "   Ala ma  kota ";
     printf("\nILosc slow = %d", CountWords(napis, i));
     return 0;
 }
