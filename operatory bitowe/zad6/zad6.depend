@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1515579832 source:c:\users\user\desktop\lessons\umcs\operatory bitowe\zad6\main.c
+	<stdio.h>
+	<stdlib.h>
+
