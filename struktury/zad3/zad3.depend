@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1515778327 source:c:\users\user\desktop\lessons\umcs\struktury\zad3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
