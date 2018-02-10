@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1517664230 source:c:\users\user\desktop\lessons\umcs\powtorzanie2\sekwencja\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

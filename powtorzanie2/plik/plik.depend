@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1517764401 source:c:\users\user\desktop\lessons\umcs\powtorzanie2\plik\main.c
+	<stdio.h>
+	<stdlib.h>
+
