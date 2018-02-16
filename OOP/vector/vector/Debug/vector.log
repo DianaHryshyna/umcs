@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\user\desktop\lessons\umcs\oop\vector\vector\main.cpp(8): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\desktop\lessons\umcs\oop\vector\vector\main.cpp(14): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\desktop\lessons\umcs\oop\vector\vector\main.cpp(20): warning C4018: <: несоответствие типов со знаком и без знака
+  vector.vcxproj -> C:\Users\User\Desktop\Lessons\umcs\OOP\vector\Debug\vector.exe
