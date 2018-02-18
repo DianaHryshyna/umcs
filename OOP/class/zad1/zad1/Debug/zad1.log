@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\user\desktop\lessons\umcs\oop\class\zad1\zad1\main.cpp(42): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\desktop\lessons\umcs\oop\class\zad1\zad1\main.cpp(46): warning C4018: <: несоответствие типов со знаком и без знака
+  zad1.vcxproj -> C:\Users\User\Desktop\Lessons\umcs\OOP\class\zad1\Debug\zad1.exe

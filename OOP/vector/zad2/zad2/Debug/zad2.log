@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\user\desktop\lessons\umcs\oop\vector\zad2\zad2\main.cpp(9): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\desktop\lessons\umcs\oop\vector\zad2\zad2\main.cpp(15): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\desktop\lessons\umcs\oop\vector\zad2\zad2\main.cpp(28): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\desktop\lessons\umcs\oop\vector\zad2\zad2\main.cpp(33): warning C4018: <: несоответствие типов со знаком и без знака
+  zad2.vcxproj -> C:\Users\User\Desktop\Lessons\umcs\OOP\vector\zad2\Debug\zad2.exe
